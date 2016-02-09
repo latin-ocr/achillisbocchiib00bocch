@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "achillisbocchiib00bocch_0058.png"; bbox 0 0 1995 3067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 488 125 1764 353">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 488 125 1764 353">
+     <span class='ocr_line' id='line_1_1' title="bbox 1052 125 1297 185; baseline -0.024 0"><span class='ocrx_word' id='word_1_1' title='bbox 1052 125 1297 185; x_wconf 46' lang='lat' dir='ltr'>‹ME-³1.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 488 269 1764 353; baseline -0.02 0"><span class='ocrx_word' id='word_1_2' title='bbox 488 285 1060 353; x_wconf 73' lang='lat' dir='ltr'>VICTORIA</span> <span class='ocrx_word' id='word_1_3' title='bbox 1136 276 1259 338; x_wconf 85' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_4' title='bbox 1333 269 1764 334; x_wconf 73' lang='lat' dir='ltr'>LABORE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 438 158 477 201">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 438 158 477 201">
+     <span class='ocr_line' id='line_1_3' title="bbox 438 158 477 201; baseline -0.026 -7"><span class='ocrx_word' id='word_1_5' title='bbox 438 158 477 201; x_wconf 67' lang='lat' dir='ltr'>H</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 715 424 1588 491">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 715 424 1588 491">
+     <span class='ocr_line' id='line_1_4' title="bbox 715 424 1588 491; baseline -0.026 -7"><span class='ocrx_word' id='word_1_6' title='bbox 715 438 1085 491; x_wconf 72' lang='lat' dir='ltr'>HoNESTA‚</span> <span class='ocrx_word' id='word_1_7' title='bbox 1135 431 1216 472; x_wconf 78' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1263 424 1588 469; x_wconf 47' lang='lat' dir='ltr'>VT1Lts„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 457 711 1779 2461">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 457 711 1779 2461">
+     <span class='ocr_line' id='line_1_5' title="bbox 457 711 1779 2461; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 457 711 1779 2461; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

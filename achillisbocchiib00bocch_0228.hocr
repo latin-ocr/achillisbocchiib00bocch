@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "achillisbocchiib00bocch_0228.png"; bbox 0 0 1995 3067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 381 107 1492 330">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 381 107 1492 330">
+     <span class='ocr_line' id='line_1_1' title="bbox 381 107 1230 165; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 381 129 546 165; x_wconf 61' lang='lat' dir='ltr'><strong>cuum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 902 107 1058 165; x_wconf 81' lang='lat' dir='ltr'>LIB.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1097 109 1230 165; x_wconf 72' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 654 259 1492 330; baseline 0.007 -6"><span class='ocrx_word' id='word_1_4' title='bbox 654 259 982 324; x_wconf 77' lang='lat' dir='ltr'><strong>MARIO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1043 263 1492 330; x_wconf 70' lang='lat' dir='ltr'><strong>NIZOLIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 774 445 1365 533">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 774 418 1365 533">
+     <span class='ocr_line' id='line_1_3' title="bbox 774 445 1365 533; baseline 0.012 -24"><span class='ocrx_word' id='word_1_6' title='bbox 774 445 968 533; x_wconf 84' lang='lat' dir='ltr'><strong>Symb.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1056 449 1365 516; x_wconf 87' lang='lat' dir='ltr'><strong>LXXXI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 452 608 1807 2347">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 452 608 1807 2347">
+     <span class='ocr_line' id='line_1_4' title="bbox 452 608 1807 2347; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 452 608 1807 2347; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
